@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: TrinketSwap
+## Notes: Swaps trinkets with a slash command
+## Author: KarazhanSucks
+## Version: 1.0
+
+TrinketSwap.lua
