@@ -1,5 +1,5 @@
 -- Register slash command
-SLASH_SWAPTRINKETS1 = "/swaptrinkets"
+SLASH_SWAPTRINKETS1 = "/trinketswap"
 
 SlashCmdList["SWAPTRINKETS"] = function()
     -- Check if the player is in combat
